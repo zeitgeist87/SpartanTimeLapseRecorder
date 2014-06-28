@@ -1,0 +1,15 @@
+
+TODO:
+
+IMPORTANT:
+1. Use colors for buttons in legacy layout
+2. Support GPS information in EXIF tags
+3. Flash settings
+4. Service shouldn't be sticky
+
+NICE TO HAVE:
+1. Motion detection
+2. Use jcodec https://stackoverflow.com/questions/3688993/encode-a-series-of-images-into-a-video
+3. https://stackoverflow.com/questions/8989251/java-h-264-video-encoding
+4. Use android internal MediaCodec https://stackoverflow.com/questions/18795353/using-mediacodec-to-save-series-of-images-as-video
+5. Use MediaCodec to convert images to mp4: https://stackoverflow.com/questions/20599937/images-to-video-using-mediacodec-and-mediamuxer
